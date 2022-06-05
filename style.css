@@ -1,0 +1,353 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+
+    height: 100vh;
+    display: table-row;
+    justify-content: flex-end;
+
+    
+    background-color: #f0f2f5;
+}
+
+.fb{
+display: block;
+width: 100px;
+height: 100px;
+justify-content: center;
+align-items: center;
+color: blue;
+margin-left: auto;
+margin-right: auto;
+font-family: inherit;
+font-size: 50px;
+position: relative;
+left: 5rem;
+margin-top:auto;
+margin-bottom: auto;
+
+}
+.container{
+    background-color: #ffff;
+    height: 570px;
+    width: 500px;
+    position: relative;
+    left: 25rem;
+    gap: 100rem;
+    display: block;
+    font-family: inherit;
+    margin-bottom: 350px;
+    
+    
+}
+.new{
+    padding-top: 20px;
+    padding-left: 80px;
+    position: relative;
+    bottom: 15px;
+    
+}
+
+.p1{
+    padding-left: 150px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+
+    
+}
+hr{
+    position: relative;
+    top: -45px;
+}
+.fn{
+    height:30px;
+    width: 200px;
+    font: weight 10px;;
+    position: relative;
+    top: 5px;
+    border-radius: 7px;
+    text-transform: lowercase;
+    gap: 100px;
+    left: 30px;
+    position: relative;
+    bottom: 10px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+    margin-bottom: 30px;
+    padding: 11px;
+    
+    
+
+}
+.sr{
+    height: 30px;
+    width: 200px;
+    font-weight: 10px;
+    position: relative;
+    top: 5px;
+    border-radius: 5px;
+    text-transform: lowercase;
+    left: 60px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+    padding: 11px;
+
+    
+
+}
+.em{
+    height: 30px;
+    width: 450px;
+    font-weight: 10px;
+    position: relative;
+    top: 5px;
+    border-radius: 7px;
+    text-transform: lowercase;
+    left: 10px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+    margin-bottom: 15px;
+}
+
+.p1{
+    position:relative;
+    font-size: 17px;
+    top: 1px;
+    font-weight: 20;
+    gap: 100px;
+}
+
+.np{
+    height: 30px;
+    width: 450px;
+    font-weight: 10px;
+    position: relative;
+    top: 9px;
+    border-radius: 7px;
+    text-transform: lowercase;
+    left: 10px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+    margin-bottom: 15px;
+}
+.db{
+    font-size: 13px;
+    font-weight: 10;
+    position: relative;
+    top: 12px;
+    left: 10px;
+    margin-bottom: 7px;
+    
+
+}
+
+.dt{
+    height:20px;
+    width: 100px;
+    font: weight 10px;;
+    position: relative;
+    top: 15px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    gap: 100px;
+    left: 20px;
+    bottom: 60px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+    
+}
+.mn{
+    height:20px;
+    width: 100px;
+    font: weight 10px;;
+    position: relative;
+    top: 15px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    gap: 100px;
+    left: 80px;
+    bottom:30px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+    margin-bottom: 10px;
+}
+
+.yr{
+    height:20px;
+    width: 100px;
+    font: weight 10px;;
+    position: relative;
+    top: 15px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    gap: 100px;
+    left: 140px;
+    bottom:30px;
+    line-height: 16px;
+    font-style: 15px;
+    cursor: text;
+    
+}
+
+.fe{
+    height:20px;
+    width: 80px;
+    font: weight 10px;;
+    position: relative;
+    top: 20px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    gap: 100px;
+    left: 20px;
+    bottom:30px;
+    cursor: text;
+}
+
+.ma{
+    height:20px;
+    width: 90px;
+    font: weight 10px;;
+    position: relative;
+    top: 20px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    gap: 100px;
+    left: 70px;
+    bottom:30px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+}
+
+.cu{
+    height:20px;
+    width: 100px;
+    font: weight 10px;;
+    position: relative;
+    top: 20px;
+    border-radius: 3px;
+    text-transform: lowercase;
+    gap: 100px;
+    left: 140px;
+    bottom:30px;
+    line-height: 16px;
+    font-size: 15px;
+    cursor: text;
+    margin-bottom: 1px;
+}
+button{
+    position: relative;
+    top: 70px;
+     border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+     background: none;
+     background-color: #00a400;
+     overflow: hidden;
+     left: 160px;
+}
+a{
+position: relative;
+top: 120px;
+right: 5px;
+font-weight: 550;
+font-size: 18px;
+}
+.bc{
+    position: relative;
+    top: 45px;
+    font-size: 13px;
+}
+.ge{
+    position: relative;
+    top: 17px;
+    font-size: 13px;
+    font-weight: 350;
+    left: 11px;
+    margin-bottom: 7px;
+}
+
+.footer-contents{
+position: relative;
+max-width: 1000px;
+margin: 0 auto;
+margin-bottom: 500px;
+}
+ol{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 10px 0;
+    position: relative;
+    bottom: 400px;
+    left: 20px;
+    
+}
+ol:first-child{
+    border-bottom: 1px solid #dddfe2;
+    
+}
+ol:first-child li:last-child button{
+    background-color: #fff;
+    border: 1px solid #ccd0d5;
+    color: #4b4f56;
+    padding: 0 8px;
+    font-weight: 700;
+    font-size: 16px;
+    position: relative;
+    left: 910px;
+    top: 87px;
+}
+ol li{
+    padding-right: 15px;
+    font-style: 12px;
+    
+
+}
+
+small{
+    font-size: 11px;
+    position: relative;
+    top: 190px;
+    right: 100px;
+}
+
+select{
+    display: inline-block;
+    height:20px;
+    width: 100px;
+    font: weight 10px;;
+    position: relative;
+    top: 15px;
+    border-radius: 3px;
+    
+    gap: 100px;
+    left: 20px;
+    bottom:30px;
+    line-height: 16px;
+    font-style: 15px;
+    cursor: text;
+    margin-left: 40px;
+}
+@media screen and (max-width:600px) {
+    body{
+
+    }
+}
